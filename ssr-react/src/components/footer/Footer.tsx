@@ -51,16 +51,10 @@ export default function Footer() {
           <div className="footer-col">
             <h4>follow us</h4>
             <div className="social-links">
-              <a
-                href="https://www.facebook.com/xxxxxxxxx"
-                title="Facebook"
-              >
+              <a href="https://www.facebook.com/xxxxxxxxx" title="Facebook">
                 <FaFacebook size="2rem" />
               </a>
-              <a
-                href="https://www.instagram.com/xxxxxxx"
-                title="Instagram"
-              >
+              <a href="https://www.instagram.com/xxxxxxx" title="Instagram">
                 <FaInstagram size="2rem" />
               </a>
             </div>
